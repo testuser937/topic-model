@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Df Default rule set" Description=" " ToolsVersion="16.0">
+  <Include Path="ruleset.ruleset" Action="Default" />
+  <Rules AnalyzerId="StyleCop.Analyzers" RuleNamespace="StyleCop.Analyzers">
+    <Rule Id="SA0000" Action="None" />
+    <Rule Id="SA0001" Action="None" />
+    <Rule Id="SA1005" Action="None" />
+    <Rule Id="SA1024" Action="Error" />
+    <Rule Id="SA1028" Action="Error" />
+    <Rule Id="SA1101" Action="None" />
+    <Rule Id="SA1123" Action="None" />
+    <Rule Id="SA1124" Action="None" />
+    <Rule Id="SA1200" Action="None" />
+    <Rule Id="SA1201" Action="None" />
+    <Rule Id="SA1202" Action="None" />
+    <Rule Id="SA1208" Action="None" />
+    <Rule Id="SA1300" Action="None" />
+    <Rule Id="SA1309" Action="None" />
+    <Rule Id="SA1312" Action="None" />
+    <Rule Id="SA1400" Action="Error" />
+    <Rule Id="SA1412" Action="Error" />
+    <Rule Id="SA1413" Action="Info" />
+    <Rule Id="SA1502" Action="None" />
+    <Rule Id="SA1507" Action="Error" />
+    <Rule Id="SA1508" Action="Error" />
+    <Rule Id="SA1509" Action="Error" />
+    <Rule Id="SA1510" Action="Error" />
+    <Rule Id="SA1512" Action="None" />
+    <Rule Id="SA1513" Action="Error" />
+    <Rule Id="SA1515" Action="None" />
+    <Rule Id="SA1516" Action="Error" />
+    <Rule Id="SA1517" Action="Error" />
+    <Rule Id="SA1518" Action="Error" />
+    <Rule Id="SA1600" Action="None" />
+    <Rule Id="SA1612" Action="Error" />
+    <Rule Id="SA1623" Action="None" />
+    <Rule Id="SA1629" Action="None" />
+    <Rule Id="SA1633" Action="None" />
+    <Rule Id="SA1639" Action="Warning" />
+    <Rule Id="SA1642" Action="None" />
+    <Rule Id="SA1652" Action="None" />
+    <Rule Id="SX1309" Action="Error" />
+  </Rules>
+</RuleSet>
